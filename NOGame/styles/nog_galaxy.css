@@ -2,7 +2,14 @@
 	
 }
 
-.row {
+#galaxytable .row {
 	height: 26px;
-	color: red;
+	background-image: none !important;
+}
+
+/* Resize the moon pics */
+#galaxytable tr.row td.moon img[width="32"] {
+	padding-top: 4px;
+	height: 22px;
+	width: 22px;
 }
