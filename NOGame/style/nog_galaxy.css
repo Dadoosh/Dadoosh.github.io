@@ -4,7 +4,7 @@
 
 #galaxytable .row {
 	height: 26px;
-	background-image: none !important;
+	background-image: http://dadoosh.github.io/NOGame/images/nog_row_populated.png;
 }
 
 /* Resize the moon pics */
