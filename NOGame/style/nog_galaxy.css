@@ -4,7 +4,8 @@
 
 #galaxytable .row {
 	height: 26px;
-	background-image: http://dadoosh.github.io/NOGame/images/nog_row_populated.png;
+/* 	background-image: url("http://dadoosh.github.io/NOGame/images/nog_row_populated.png" !important); */
+	background-image: url("http://thestormhawks.net/NOGame/images/nog_row_populated.png" !important)
 }
 
 /* Resize the moon pics */
